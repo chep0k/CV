@@ -12,7 +12,7 @@
 - Algorithms and Data Structures
 #### Projects
 - git-basics
-- ...
+- ...   
 Visit my GitHub profile for more info:
 https://github.com/chep0k
 #### Main Programming Languages
@@ -37,17 +37,17 @@ https://github.com/chep0k
 - LaTeX
 - Jupyter Markdown
 ### Achievements
-7/119 position in final stage of All-Russian Mathematical Olympiad
+- 7/119 position in final stage of All-Russian Mathematical Olympiad
 ### Bachelor GPA
 - 1st year: 8.09/10
 - 2nd year: -
 ### Education
 #### School
-2016-2018 ГБОУ Лицей "Вторая школа"
-2018-2020 СУНЦ МГУ (AESC MSU)
+- 2016-2018 ГБОУ Лицей "Вторая школа"
+- 2018-2020 СУНЦ МГУ (AESC MSU)
 #### Bachelor
-HSE (Higher School of Economics) University, Faculty of Computer Science, Applied Mathematics and Information Science, 2020-2024
+- HSE (Higher School of Economics) University, Faculty of Computer Science, Applied Mathematics and Information Science, 2020-2024
 ### Languages
-Russian C2
-English B2-C1
+- Russian C2
+- English B2-C1
 
